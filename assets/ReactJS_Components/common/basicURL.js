@@ -1,0 +1,1 @@
+let basicURL   =    'http://localhost/APAR/';
